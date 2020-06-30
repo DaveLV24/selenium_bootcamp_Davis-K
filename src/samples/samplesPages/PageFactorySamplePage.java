@@ -32,5 +32,7 @@ public class PageFactorySamplePage extends BaseFunc {
     public void clickElement() {
         //some code
     }
-
+//    public void getElement() {
+//        List<WebEleements list = driver.finElements(By blabla)>
+//    }
 }
